@@ -1,5 +1,5 @@
 // backend/controllers/messagesController.js
-const Message = require("../models/Message");
+const Message = require("../models/messageModels");
 const aiService = require("../services/aiService");
 
 // GET /api/messages
